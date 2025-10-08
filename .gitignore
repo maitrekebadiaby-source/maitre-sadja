@@ -1,0 +1,30 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build Files
+dist/
+build/
+.cache/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Netlify
+.netlify/
+
