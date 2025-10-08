@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /_headers
+Disallow: /netlify.toml
+
+Sitemap: https://sadja.netlify.app/sitemap.xml
+
